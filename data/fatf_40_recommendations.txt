@@ -1,0 +1,353 @@
+FINAL
+FATF-VII
+
+ANNEX 1
+
+FINANCIAL ACTION TASK FORCE ON
+MONEY LAUNDERING
+
+THE FORTY RECOMMENDATIONS
+OF THE FINANCIAL ACTION TASK FORCE
+ON MONEY LAUNDERING
+
+28 June 1996
+1
+
+Introduction
+1.
+The Financial Action Task Force on Money Laundering (FATF) is an inter-governmental body whose
+purpose is the development and promotion of policies to combat money laundering — the processing of criminal
+proceeds in order to disguise their illegal origin. These policies aim to prevent such proceeds from being utilised
+in future criminal activities and from affecting legitimate economic activities.
+2.
+The FATF currently consists of 26 countries1 and two international organisations2 . Its membership
+includes the major financial centre countries of Europe, North America and Asia. It is a multi-disciplinary body as is essential in dealing with money laundering - bringing together the policy-making power of legal, financial and
+law enforcement experts.
+3.
+This need to cover all relevant aspects of the fight against money laundering is reflected in the scope of
+the forty FATF Recommendations — the measures which the Task Force have agreed to implement and which all
+countries are encouraged to adopt. The Recommendations were originally drawn up in 1990. In 1996 the forty
+Recommendations were revised to take into account the experience gained over the last six years and to reflect the
+changes which have occurred in the money laundering problem.3
+4.
+These forty Recommendations set out the basic framework for anti-money laundering efforts and they are
+designed to be of universal application. They cover the criminal justice system and law enforcement; the financial
+system and its regulation, and international cooperation.
+5.
+It was recognised from the outset of the FATF that countries have diverse legal and financial systems and
+so all cannot take identical measures. The Recommendations are therefore the principles for action in this field,
+for countries to implement according to their particular circumstances and constitutional frameworks allowing
+countries a measure of flexibility rather than prescribing every detail. The measures are not particularly complex
+or difficult, provided there is the political will to act. Nor do they compromise the freedom to engage in legitimate
+transactions or threaten economic development.
+6.
+FATF countries are clearly committed to accept the discipline of being subjected to multilateral surveillance and peer review. All member countries have their implementation of the forty Recommendations monitored
+through a two-pronged approach: an annual self-assessment exercise and the more detailed mutual evaluation
+process under which each member country is subject to an on-site examination. In addition, the FATF carries out
+cross-country reviews of measures taken to implement particular Recommendations.
+7.
+
+These measures are essential for the creation of an effective anti-money laundering framework.
+
+1
+
+Reference in this document to “countries” should be taken to apply equally to “territories” or “jurisdictions”. The twenty six FATF member countries and governments are: Australia, Austria, Belgium, Canada,
+Denmark, Finland, France, Germany, Greece, Hong Kong, Iceland, Ireland, Italy, Japan, Luxembourg, the Kingdom
+of the Netherlands, New Zealand, Norway, Portugal, Singapore, Spain, Sweden, Switzerland, Turkey, United
+Kingdom, and the United States
+2
+
+The two international organisations are: the European Commission and the Gulf Cooperation Council.
+
+3
+
+During the period 1990 to 1995, the FATF also elaborated various Interpretative Notes which are designed
+to clarify the application of specific Recommendations. Some of these Interpretative Notes have been updated in
+the Stocktaking Review to reflect changes in the Recommendations.
+
+2
+
+THE FORTY RECOMMENDATIONS OF THE FINANCIAL ACTION
+TASK FORCE ON MONEY LAUNDERING
+A. GENERAL FRAMEWORK OF THE RECOMMENDATIONS
+1.
+
+Each country should take immediate steps to ratify and to implement fully, the 1988 United Nations
+Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances (the Vienna Convention).
+
+2.
+
+Financial institution secrecy laws should be conceived so as not to inhibit implementation of these
+recommendations.
+
+3.
+
+An effective money laundering enforcement program should include increased multilateral cooperation and mutual legal assistance in money laundering investigations and prosecutions and
+extradition in money laundering cases, where possible.
+
+B. ROLE OF NATIONAL LEGAL SYSTEMS IN COMBATING MONEY LAUNDERING
+Scope of the Criminal Offence of Money Laundering
+4.
+
+Each country should take such measures as may be necessary, including legislative ones, to enable it
+to criminalise money laundering as set forth in the Vienna Convention. Each country should extend
+the offence of drug money laundering to one based on serious offences. Each country would
+determine which serious crimes would be designated as money laundering predicate offences.
+
+5.
+
+As provided in the Vienna Convention, the offence of money laundering should apply at least to
+knowing money laundering activity, including the concept that knowledge may be inferred from
+objective factual circumstances.
+
+6.
+
+Where possible, corporations themselves - not only their employees - should be subject to criminal
+liability.
+Provisional Measures and Confiscation
+
+7.
+
+Countries should adopt measures similar to those set forth in the Vienna Convention, as may be
+necessary, including legislative ones, to enable their competent authorities to confiscate property
+laundered, proceeds from, instrumentalities used in or intended for use in the commission of any
+money laundering offence, or property of corresponding value, without prejudicing the rights of
+bona fide third parties.
+Such measures should include the authority to : 1) identify, trace and evaluate property which is
+subject to confiscation; 2) carry out provisional measures, such as freezing and seizing, to
+
+3
+
+prevent any dealing, transfer or disposal of such property; and 3) take any appropriate investigative
+measures.
+In addition to confiscation and criminal sanctions, countries also should consider monetary and civil
+penalties, and/or proceedings including civil proceedings, to void contracts entered into by parties,
+where parties knew or should have known that as a result of the contract, the State would be prejudiced in its ability to recover financial claims, e.g. through confiscation or collection of fines and
+penalties.
+
+C. ROLE OF THE FINANCIAL SYSTEM IN COMBATING MONEY
+LAUNDERING
+8.
+
+Recommendations 10 to 29 should apply not only to banks, but also to non-bank financial institutions. Even for those non-bank financial institutions which are not subject to a formal prudential
+supervisory regime in all countries, for example bureaux de change, governments should ensure that
+these institutions are subject to the same anti-money laundering laws or regulations as all other
+financial institutions and that these laws or regulations are implemented effectively.
+
+9.
+
+The appropriate national authorities should consider applying Recommendations 10 to 21 and 23 to
+the conduct of financial activities as a commercial undertaking by businesses or professions which
+are not financial institutions, where such conduct is allowed or not prohibited. Financial activities
+include, but are not limited to, those listed in the attached annex. It is left to each country to decide
+whether special situations should be defined where the application of anti-money laundering measures is not necessary, for example, when a financial activity is carried out on an occasional or
+limited basis.
+Customer Identification and Record-keeping Rules
+
+10. Financial institutions should not keep anonymous accounts or accounts in obviously fictitious
+names: they should be required (by law, by regulations, by agreements between supervisory authorities and financial institutions or by self-regulatory agreements among financial institutions) to
+identify, on the basis of an official or other reliable identifying document, and record the identity of
+their clients, either occasional or usual, when establishing business relations or conducting transactions (in particular opening of accounts or passbooks, entering into fiduciary transactions, renting of
+safe deposit boxes, performing large cash transactions).
+In order to fulfill identification requirements concerning legal entities, financial institutions should,
+when necessary, take measures:
+(i) to verify the legal existence and structure of the customer by obtaining either from a public
+register or from the customer or both, proof of incorporation, including information concerning
+the customer’s name, legal form, address, directors and provisions regulating the power to bind
+the entity.
+
+4
+
+(ii) to verify that any person purporting to act on behalf of the customer is so authorised and identify
+that person.
+11. Financial institutions should take reasonable measures to obtain information about the true identity
+of the persons on whose behalf an account is opened or a transaction conducted if there are any
+doubts as to whether these clients or customers are acting on their own behalf, for example, in the
+case of domiciliary companies (i.e. institutions, corporations, foundations, trusts, etc. that do not
+conduct any commercial or manufacturing business or any other form of commercial operation in
+the country where their registered office is located).
+12. Financial institutions should maintain, for at least five years, all necessary records on transactions,
+both domestic or international, to enable them to comply swiftly with information requests from the
+competent authorities. Such records must be sufficient to permit reconstruction of individual transactions (including the amounts and types of currency involved if any) so as to provide, if necessary,
+evidence for prosecution of criminal behaviour.
+Financial institutions should keep records on customer identification (e.g. copies or records of
+official identification documents like passports, identity cards, driving licenses or similar documents), account files and business correspondence for at least five years after the account is closed.
+These documents should be available to domestic competent authorities in the context of relevant
+criminal prosecutions and investigations.
+13. Countries should pay special attention to money laundering threats inherent in new or developing
+technologies that might favour anonymity, and take measures, if needed, to prevent their use in
+money laundering schemes.
+Increased Diligence of Financial Institutions
+14. Financial institutions should pay special attention to all complex, unusual large transactions, and all
+unusual patterns of transactions, which have no apparent economic or visible lawful purpose. The
+background and purpose of such transactions should, as far as possible, be examined, the findings
+established in writing, and be available to help supervisors, auditors and law enforcement agencies.
+15. If financial institutions suspect that funds stem from a criminal activity, they should be required to
+report promptly their suspicions to the competent authorities.
+16. Financial institutions, their directors, officers and employees should be protected by legal provisions
+from criminal or civil liability for breach of any restriction on disclosure of information imposed by
+contract or by any legislative, regulatory or administrative provision, if they report their suspicions
+in good faith to the competent authorities, even if they did not know precisely what the underlying
+criminal activity was, and regardless of whether illegal activity actually occurred.
+
+5
+
+17. Financial institutions, their directors, officers and employees, should not, or, where appropriate,
+should not be allowed to, warn their customers when information relating to them is being reported
+to the competent authorities.
+18. Financial institutions reporting their suspicions should comply with instructions from the competent
+authorities.
+19. Financial institutions should develop programs against money laundering. These programs should
+include, as a minimum :
+(i) the development of internal policies, procedures and controls, including the designation of com
+pliance officers at management level, and adequate screening procedures to ensure high stan
+dards when hiring employees;
+(ii) an ongoing employee training programme;
+
+(iii) an audit function to test the system.
+Measures to Cope with the Problem of Countries with No or Insufficient Anti-Money Laundering Measures
+20. Financial institutions should ensure that the principles mentioned above are also applied to branches
+and majority owned subsidiaries located abroad, especially in countries which do not or insufficiently apply these Recommendations, to the extent that local applicable laws and regulations
+permit. When local applicable laws and regulations prohibit this implementation, competent authorities in the country of the mother institution should be informed by the financial institutions that they
+cannot apply these Recommendations.
+21. Financial institutions should give special attention to business relations and transactions with persons, including companies and financial institutions, from countries which do not or insufficiently
+apply these Recommendations. Whenever these transactions have no apparent economic or visible
+lawful purpose, their background and purpose should, as far as possible, be examined, the findings
+established in writing, and be available to help supervisors, auditors and law enforcement agencies.
+Other Measures to Avoid Money Laundering
+22. Countries should consider implementing feasible measures to detect or monitor the physical crossborder transportation of cash and bearer negotiable instruments, subject to strict safeguards to
+ensure proper use of information and without impeding in any way the freedom of capital movements.
+23. Countries should consider the feasibility and utility of a system where banks and other financial
+institutions and intermediaries would report all domestic and international currency transactions
+above a fixed amount, to a national central agency with a computerised data base, available to
+competent authorities for use in money laundering cases, subject to strict safeguards to ensure
+proper use of the information.
+6
+
+24. Countries should further encourage in general the development of modern and secure techniques of
+money management, including increased use of checks, payment cards, direct deposit of salary
+checks, and book entry recording of securities, as a means to encourage the replacement of cash
+transfers.
+25. Countries should take notice of the potential for abuse of shell corporations by money launderers
+and should consider whether additional measures are required to prevent unlawful use of such
+entities.
+Implementation, and Role of Regulatory and other Administrative Authorities
+26. The competent authorities supervising banks or other financial institutions or intermediaries, or
+other competent authorities, should ensure that the supervised institutions have adequate programs
+to guard against money laundering. These authorities should co-operate and lend expertise spontaneously or on request with other domestic judicial or law enforcement authorities in money laundering investigations and prosecutions.
+27. Competent authorities should be designated to ensure an effective implementation of all these
+Recommendations, through administrative supervision and regulation, in other professions dealing
+with cash as defined by each country.
+28. The competent authorities should establish guidelines which will assist financial institutions in
+detecting suspicious patterns of behaviour by their customers. It is understood that such guidelines
+must develop over time, and will never be exhaustive. It is further understood that such guidelines
+will primarily serve as an educational tool for financial institutions’ personnel.
+29. The competent authorities regulating or supervising financial institutions should take the necessary
+legal or regulatory measures to guard against control or acquisition of a significant participation in
+financial institutions by criminals or their confederates.
+
+D. STRENGTHENING OF INTERNATIONAL CO-OPERATION
+Administrative Co-operation
+Exchange of general information
+30. National administrations should consider recording, at least in the aggregate, international flows of
+cash in whatever currency, so that estimates can be made of cash flows and reflows from various
+sources abroad, when this is combined with central bank information. Such information should be
+made available to the International Monetary Fund and the Bank for International Settlements to
+facilitate international studies.
+31. International competent authorities, perhaps Interpol and the World Customs Organisation,
+should be given responsibility for gathering and disseminating information to competent authori
+ties about the latest developments in money laundering and money laundering
+7
+
+techniques. Central banks and bank regulators could do the same on their network. National
+authorities in various spheres, in consultation with trade associations, could then disseminate this to
+financial institutions in individual countries.
+Exchange of information relating to suspicious transactions
+32. Each country should make efforts to improve a spontaneous or “upon request” international information exchange relating to suspicious transactions, persons and corporations involved in those
+transactions between competent authorities. Strict safeguards should be established to ensure that
+this exchange of information is consistent with national and international provisions on privacy and
+data protection.
+Other forms of Co-operation
+Basis and means for co-operation in confiscation, mutual assistance and extradition
+33. Countries should try to ensure, on a bilateral or multilateral basis, that different knowledge standards in national definitions - i.e. different standards concerning the intentional element of the
+infraction - do not affect the ability or willingness of countries to provide each other with mutual
+legal assistance.
+34. International co-operation should be supported by a network of bilateral and multilateral agreements
+and arrangements based on generally shared legal concepts with the aim of providing practical
+measures to affect the widest possible range of mutual assistance.
+35. Countries should be encouraged to ratify and implement relevant international conventions on
+money laundering such as the 1990 Council of Europe Convention on Laundering, Search, Seizure
+and Confiscation of the Proceeds from Crime.
+Focus of improved mutual assistance on money laundering issues
+36. Co-operative investigations among countries’ appropriate competent authorities should be encouraged. One valid and effective investigative technique in this respect is controlled delivery related to
+assets known or suspected to be the proceeds of crime. Countries are encouraged to support this
+technique, where possible.
+37. There should be procedures for mutual assistance in criminal matters regarding the use of compulsory measures including the production of records by financial institutions and other persons, the
+search of persons and premises, seizure and obtaining of evidence for use in money laundering
+investigations and prosecutions and in related actions in foreign jurisdictions.
+38. There should be authority to take expeditious action in response to requests by foreign countries to
+identify, freeze, seize and confiscate proceeds or other property of corresponding value to such
+proceeds, based on money laundering or the crimes underlying the laundering activity. There should
+also be arrangements for coordinating seizure and confiscation proceedings which may include the
+sharing of confiscated assets.
+
+8
+
+39. To avoid conflicts of jurisdiction, consideration should be given to devising and applying mechanisms for determining the best venue for prosecution of defendants in the interests of justice in cases
+that are subject to prosecution in more than one country. Similarly, there should be arrangements
+for coordinating seizure and confiscation proceedings which may include the sharing of confiscated
+assets.
+40. Countries should have procedures in place to extradite, where possible, individuals charged with a
+money laundering offence or related offences. With respect to its national legal system, each
+country should recognise money laundering as an extraditable offence. Subject to their legal frameworks, countries may consider simplifying extradition by allowing direct transmission of extradition
+requests between appropriate ministries, extraditing persons based only on warrants of arrests or
+judgements, extraditing their nationals, and/or introducing a simplified extradition of consenting
+persons who waive formal extradition proceedings.
+
+Annex to Recommendation 9: List of Financial Activities undertaken by business or professions
+which are not financial institutions
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Acceptance of deposits and other repayable funds from the public.
+Lending.1
+Financial leasing.
+Money transmission services.
+Issuing and managing means of payment (e.g. credit and debit cards, cheques, traveller’s
+cheques and bankers’ drafts...).
+Financial guarantees and commitments.
+Trading for account of customers (spot, forward, swaps, futures, options...) in:
+(a) money market instruments (cheques, bills, CDs, etc.) ;
+(b) foreign exchange;
+(c) exchange, interest rate and index instruments;
+(d) transferable securities;
+(e) commodity futures trading.
+
+8.
+9.
+10.
+11.
+12.
+
+Participation in securities issues and the provision of financial services related to such issues.
+Individual and collective portfolio management.
+Safekeeping and administration of cash or liquid securities on behalf of clients.
+Life insurance and other investment related insurance.
+Money changing.
+
+1
+
+Including inter alia
+- consumer credit
+- mortgage credit
+- factoring, with or without recourse
+- finance of commercial transactions (including forfaiting)
+
+9
+
+

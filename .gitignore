@@ -1,3 +1,5 @@
+.cursor/
+
 # Python
 __pycache__/
 *.pyc
