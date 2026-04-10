@@ -414,7 +414,7 @@ Chạy 5 queries trên AMLComplianceChunker strategy với RecursiveChunker (800
 | Results                     | Cá nhân | 10 / 10          | All 5 queries retrieved relevant chunks; metadata filtering demonstrated; 100% top-1 relevance |
 | Core implementation (tests) | Cá nhân | 30 / 30          | 42/42 tests pass with no errors; all functions implemented correctly                           |
 | Demo + learnings            | Nhóm    | 5 / 5            | Team collaboration insights + cross-team learnings + data strategy reflections actionable      |
-| **Tổng**                    |         | **100 / 100**    | Solid implementation + deep compliance domain understanding + thoughtful reflection            |
+| **Tổng**                    |         | **90 / 100**    | Solid implementation + deep compliance domain understanding + thoughtful reflection            |
 
 
 ---
